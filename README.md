@@ -9,10 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=%2379A500&center=true&vCenter=true&width=800&lines=Hi,+I'm+arvind+sharma👋;B.Tech+CSE+|+Student+%26+Learner;Building+cool+projects+%EF%B8%8F" alt="arvind sharma typing"/>
 </p>
 
-<p align="center">
-  <!-- Profile GIF / avatar -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" height="180" style="border-radius:50%" alt="avatar"/>
-</p>
+
 
 <!--🖼️RICK-->
 <p align="center">
@@ -29,6 +26,11 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-@YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github" alt="github"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-D14836?style=for-the-badge&logo=gmail" alt="email"/></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+</p>
+
+<!-- Snake Graph Dark Mode -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arvind-sharma/arvind-sharma/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
