@@ -14,6 +14,10 @@
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180" height="180" style="border-radius:50%" alt="avatar"/>
 </p>
 
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
+
 <p align="center">
   <strong>arvind sharma</strong> • B.Tech CSE • Passionate about DSA, web & open-source 🚀  
 </p>
